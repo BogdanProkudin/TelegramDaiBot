@@ -1,1 +1,1 @@
-console.log("HIi");
+console.log("это гит для богдана ветки");
